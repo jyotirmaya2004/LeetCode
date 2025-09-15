@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,8 +27,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/0001-two-sum) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
