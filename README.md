@@ -1,4 +1,7 @@
 # LeetCode
+# 🚀 My LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jyotirmaya2004?theme=dark&font=Arial&ext=heatmap)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -97,3 +100,4 @@
 | ------- |
 | [0136-single-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
+
