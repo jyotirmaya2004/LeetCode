@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
@@ -40,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -47,4 +50,12 @@
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
