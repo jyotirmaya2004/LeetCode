@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/jyotirmaya2004/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jyotirmaya2004/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
