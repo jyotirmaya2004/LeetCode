@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/jyotirmaya2004/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
