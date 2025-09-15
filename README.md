@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
+| [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,5 +36,6 @@
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
