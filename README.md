@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jyotirmaya2004/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
 ## String
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
