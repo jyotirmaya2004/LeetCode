@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jyotirmaya2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jyotirmaya2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -72,6 +74,7 @@
 | [0015-3sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/jyotirmaya2004/LeetCode/tree/master/0217-contains-duplicate) |
 | [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
