@@ -31,6 +31,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -153,10 +154,15 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
 
