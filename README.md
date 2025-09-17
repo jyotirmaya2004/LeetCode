@@ -62,6 +62,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/jyotirmaya2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/jyotirmaya2004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -164,6 +165,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jyotirmaya2004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
