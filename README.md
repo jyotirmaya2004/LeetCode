@@ -74,6 +74,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0742-to-lower-case](https://github.com/jyotirmaya2004/LeetCode/tree/master/0742-to-lower-case) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
