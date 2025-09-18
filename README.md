@@ -57,6 +57,7 @@
 | [0125-valid-palindrome](https://github.com/jyotirmaya2004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
 ## String
@@ -70,6 +71,7 @@
 | [0125-valid-palindrome](https://github.com/jyotirmaya2004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
