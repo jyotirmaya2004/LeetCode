@@ -1,26 +1,35 @@
-from typing import Optional
-
 # Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(-1)   # temporary head
-        tail = dummy
+        if not list1: return list2
+        if not list2: return list1
+        curr1 = list1
+        curr2 = list2
+        prev = None
+        head = None
 
-        while list1 and list2:
-            if list1.val <= list2.val:
-                tail.next = list1
-                list1 = list1.next
+        while curr1 and curr2:
+            if curr1.val <= curr2.val:
+                newnode = curr1     
+                curr1 = curr1.next
             else:
-                tail.next = list2
-                list2 = list2.next
-            tail = tail.next
+                newnode = curr2    
+                curr2 = curr2.next
 
-        # Attach the rest of whichever list is not empty
-        tail.next = list1 if list1 else list2
+            if prev:
+                prev.next = newnode
+            else:
+                head = newnode
+            prev = newnode
 
-        return dummy.next
+        # Attach remaining nodes
+        if curr1:
+            prev.next = curr1
+        else:
+            prev.next = curr2
+
+        return head
