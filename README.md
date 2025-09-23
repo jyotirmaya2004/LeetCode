@@ -148,6 +148,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jyotirmaya2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jyotirmaya2004/LeetCode/tree/master/0069-sqrtx) |
@@ -253,11 +254,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Union Find
 |  |
