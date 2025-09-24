@@ -85,6 +85,7 @@
 | [0014-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jyotirmaya2004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jyotirmaya2004/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jyotirmaya2004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -161,6 +162,7 @@
 | [0009-palindrome-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jyotirmaya2004/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jyotirmaya2004/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jyotirmaya2004/LeetCode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jyotirmaya2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -244,6 +246,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Heap (Priority Queue)
