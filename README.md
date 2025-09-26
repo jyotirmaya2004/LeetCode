@@ -39,6 +39,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jyotirmaya2004/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [0830-largest-triangle-area](https://github.com/jyotirmaya2004/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/jyotirmaya2004/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -77,6 +78,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/jyotirmaya2004/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [2481-strictly-palindromic-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -156,6 +158,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -210,6 +213,7 @@
 | [0069-sqrtx](https://github.com/jyotirmaya2004/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +225,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Sliding Window
 |  |
 | ------- |
