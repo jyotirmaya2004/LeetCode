@@ -52,6 +52,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jyotirmaya2004/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -243,6 +244,7 @@
 | [0238-product-of-array-except-self](https://github.com/jyotirmaya2004/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jyotirmaya2004/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0043-multiply-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
