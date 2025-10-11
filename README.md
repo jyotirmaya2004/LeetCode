@@ -53,6 +53,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jyotirmaya2004/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyotirmaya2004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@
 | [0119-pascals-triangle-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/jyotirmaya2004/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [2481-strictly-palindromic-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jyotirmaya2004/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/jyotirmaya2004/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyotirmaya2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -164,6 +168,7 @@
 | [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +202,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jyotirmaya2004/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyotirmaya2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
@@ -217,6 +223,7 @@
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
