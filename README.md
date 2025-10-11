@@ -303,6 +303,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
@@ -310,6 +311,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Union Find
 |  |
 | ------- |
