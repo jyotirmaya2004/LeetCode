@@ -56,6 +56,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0120-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/jyotirmaya2004/LeetCode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0136-single-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -330,5 +334,13 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
 
