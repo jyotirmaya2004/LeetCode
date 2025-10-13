@@ -1,0 +1,12 @@
+class Solution:
+    def removeAnagrams(self, words: List[str]) -> List[str]:
+        def isAna(s1, s2):
+            return sorted(s1) == sorted(s2)
+        
+        r = []
+        for i in words:
+            if r and isAna(r[-1], i):
+                continue
+            r.append(i)
+        return r
+        
