@@ -50,6 +50,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -160,6 +161,7 @@
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -251,6 +253,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Bit Manipulation
@@ -268,6 +271,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sliding Window
@@ -316,6 +320,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/jyotirmaya2004/LeetCode/tree/master/3678-design-task-manager) |
 ## Ordered Set
