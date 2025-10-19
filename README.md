@@ -133,6 +133,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyotirmaya2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4019-remove-k-balanced-substrings](https://github.com/jyotirmaya2004/LeetCode/tree/master/4019-remove-k-balanced-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [4019-remove-k-balanced-substrings](https://github.com/jyotirmaya2004/LeetCode/tree/master/4019-remove-k-balanced-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4019-remove-k-balanced-substrings](https://github.com/jyotirmaya2004/LeetCode/tree/master/4019-remove-k-balanced-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
