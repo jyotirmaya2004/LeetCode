@@ -75,6 +75,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/jyotirmaya2004/LeetCode/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/jyotirmaya2004/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/jyotirmaya2004/LeetCode/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 ## Divide and Conquer
 |  |
 | ------- |
