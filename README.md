@@ -53,6 +53,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -171,6 +172,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jyotirmaya2004/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/jyotirmaya2004/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -335,6 +338,7 @@
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [4019-remove-k-balanced-substrings](https://github.com/jyotirmaya2004/LeetCode/tree/master/4019-remove-k-balanced-substrings) |
