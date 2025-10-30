@@ -50,6 +50,7 @@
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jyotirmaya2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -445,6 +446,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jyotirmaya2004/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jyotirmaya2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Backtracking
 |  |
@@ -454,5 +456,9 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jyotirmaya2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
 
