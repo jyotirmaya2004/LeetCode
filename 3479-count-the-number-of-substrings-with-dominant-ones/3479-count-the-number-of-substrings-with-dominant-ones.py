@@ -1,43 +1,52 @@
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
-        n = len(s)
-        result = 0
-        
-        # Iterate through possible zero counts (1 to sqrt(n))
-        for k in range(1, int(n**0.5) + 1):
-            zeros = deque()  # Queue to store positions of zeros
-            lastzero = -1    # Position of the zero before the first zero in our window
-            ones = 0         # Count of ones in our current window
-            
-            # Scan through the string
-            for right in range(n):
-                if s[right] == '0':
-                    zeros.append(right)
-                    # If we have more than k zeros, remove the leftmost one
-                    while len(zeros) > k:
-                        ones -= (zeros[0] - lastzero - 1)  # Subtract ones between lastzero and the removed zero
-                        lastzero = zeros.popleft()
+            n = len(s)
+            cumZeros = [0] * (n + 1) # DP-ish for count of zeros; cumZeros[i+1] = cumulative zeros up to i
+            posZeros = [-1] # index positions of zeros in s
+            posOnes = [-1] # index positions of ones in s
+
+            res = 0
+
+            for i, c in enumerate(s):
+                if c == '1':
+                    posOnes.append(i)
+                    res += 1
+                    curZeros = cumZeros[i] # cumulative zeros before i
+                    curOnes = i - curZeros + 1 # number of ones we have is current index minus the zeros plus one
+                    left = posZeros[curZeros - 1] # position before last zero
                 else:
-                    ones += 1
-                
-                # If we have exactly k zeros and at least k^2 ones
-                if len(zeros) == k and ones >= k**2:
-                    # Add the minimum of:
-                    # 1. Number of ways to extend to the left (zeros[0] - lastzero)
-                    # 2. Number of ways to extend to the right (ones - k**2 + 1)
-                    result += min(zeros[0] - lastzero, ones - k**2 + 1)
-        
-        # Handle all-ones substrings
-        i = 0
-        while i < n:
-            if s[i] == '0':
-                i += 1
-                continue
-            sz = 0
-            while i < n and s[i] == '1':
-                sz += 1
-                i += 1
-            # Add number of all-ones substrings
-            result += (sz * (sz + 1)) // 2
-        
-        return result
+                    posZeros.append(i)
+                    curZeros = cumZeros[i] + 1 # cumulative zeros before i, +1 for the current zero 
+                    curOnes = i - curZeros + 1 # number of ones we have is current index minus the zeros plus one
+                    left = posOnes[curOnes] # position before the last one
+
+                cumZeros[i + 1] = curZeros # set the next cumulative zeros count, cumZeros[i+1] represents s[:i]
+
+                right = i
+                while left >= 0:
+                    countZero = curZeros - cumZeros[left] # Zeros in range [left, i]
+                    countOne = i - left + 1 - countZero # Ones in range [left, i]
+
+                    sqZero = countZero * countZero
+                    if sqZero <= countOne:
+                        if s[left] == "1": # if jump ended on a 1, only count current full substring [left, right]
+                            res += 1
+                        else:
+                            res += right - left # if jump ended on a 0, count all substrings in [left, right]
+
+                        right = left
+
+                        nextZero = curZeros - ceil(sqrt(countOne + 1)) + 1 # index in posZeros to jump to next that's valid (enough ones to satisfy the condition)
+                        left = posZeros[nextZero] if nextZero >= 0 else -1
+
+                    else:
+                        if s[left] == "0":
+                            res += right - left - 1 # if jump ended on a 0, count all substrings in [left, right], excluding the full substring due to the jump logic
+
+                        right = left
+                        nextOne = curOnes - sqZero + 1 # at least sqZero ones to satisfy condition
+                        left = posOnes[nextOne] if nextOne >= 0 else -1
+
+                if curZeros * curZeros <= curOnes: # if entire range is dominant, count all remaining valid substrings up to right from s[0]
+                    res += right
+            return res
