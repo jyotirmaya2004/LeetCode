@@ -58,6 +58,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/jyotirmaya2004/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
@@ -103,6 +104,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -163,6 +165,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/jyotirmaya2004/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -343,6 +346,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/jyotirmaya2004/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jyotirmaya2004/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
