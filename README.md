@@ -100,6 +100,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -323,6 +324,7 @@
 | [0136-single-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -511,5 +513,9 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
 
