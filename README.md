@@ -168,6 +168,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jyotirmaya2004/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -203,6 +204,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -334,6 +336,7 @@
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -376,6 +379,7 @@
 | [0238-product-of-array-except-self](https://github.com/jyotirmaya2004/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jyotirmaya2004/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyotirmaya2004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
