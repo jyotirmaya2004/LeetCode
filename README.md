@@ -57,6 +57,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jyotirmaya2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/jyotirmaya2004/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/jyotirmaya2004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -212,6 +213,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/jyotirmaya2004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/jyotirmaya2004/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -396,6 +398,7 @@
 | [0238-product-of-array-except-self](https://github.com/jyotirmaya2004/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jyotirmaya2004/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/jyotirmaya2004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/2625-increment-submatrices-by-one) |
