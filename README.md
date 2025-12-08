@@ -294,6 +294,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/jyotirmaya2004/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jyotirmaya2004/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/jyotirmaya2004/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/jyotirmaya2004/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jyotirmaya2004/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -522,6 +523,7 @@
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/jyotirmaya2004/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jyotirmaya2004/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
