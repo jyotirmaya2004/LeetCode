@@ -84,6 +84,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jyotirmaya2004/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/jyotirmaya2004/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -275,6 +276,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3433-count-mentions-per-user](https://github.com/jyotirmaya2004/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/jyotirmaya2004/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -311,6 +313,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/jyotirmaya2004/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -463,6 +466,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jyotirmaya2004/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3433-count-mentions-per-user](https://github.com/jyotirmaya2004/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
