@@ -50,6 +50,7 @@
 | [0794-swim-in-rising-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/jyotirmaya2004/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/jyotirmaya2004/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -232,6 +233,7 @@
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
