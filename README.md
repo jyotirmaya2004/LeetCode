@@ -58,6 +58,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/jyotirmaya2004/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/jyotirmaya2004/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/jyotirmaya2004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -128,6 +129,7 @@
 | [0474-ones-and-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
