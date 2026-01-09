@@ -1,17 +1,30 @@
-class Solution(object):
-    def subtreeWithAllDeepest(self, root):
-        # The result of a subtree is:
-        # Result.node: the largest depth node that is equal to or
-        #              an ancestor of all the deepest nodes of this subtree.
-        # Result.dist: the number of nodes in the path from the root
-        #              of this subtree, to the deepest node in this subtree.
-        Result = collections.namedtuple("Result", ("node", "dist"))
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def subtreeWithAllDeepest(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         def dfs(node):
-            # Return the result of the subtree at this node.
-            if not node: return Result(None, 0)
-            L, R = dfs(node.left), dfs(node.right)
-            if L.dist > R.dist: return Result(L.node, L.dist + 1)
-            if L.dist < R.dist: return Result(R.node, R.dist + 1)
-            return Result(node, L.dist + 1)
-
-        return dfs(root).node
+            # Returns (depth, LCA of deepest nodes in this subtree)
+            if not node:
+                return (0, None)
+            
+            left_depth, left_lca = dfs(node.left)
+            right_depth, right_lca = dfs(node.right)
+            
+            # If left subtree is deeper, deepest nodes are all on the left
+            if left_depth > right_depth:
+                return (left_depth + 1, left_lca)
+            # If right subtree is deeper, deepest nodes are all on the right
+            elif right_depth > left_depth:
+                return (right_depth + 1, right_lca)
+            # If both subtrees have same depth, current node is the LCA
+            else:
+                return (left_depth + 1, node)
+        
+        return dfs(root)[1]
+            
+        
+        
