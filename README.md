@@ -127,6 +127,7 @@
 | [0120-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -190,6 +191,7 @@
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/jyotirmaya2004/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/jyotirmaya2004/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
