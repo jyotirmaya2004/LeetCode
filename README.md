@@ -20,6 +20,7 @@
 | [0053-maximum-subarray](https://github.com/jyotirmaya2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jyotirmaya2004/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jyotirmaya2004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0120-triangle) |
@@ -471,6 +473,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jyotirmaya2004/LeetCode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -528,6 +531,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jyotirmaya2004/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -624,6 +628,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
