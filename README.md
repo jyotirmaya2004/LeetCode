@@ -91,6 +91,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jyotirmaya2004/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jyotirmaya2004/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -271,6 +272,7 @@
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jyotirmaya2004/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jyotirmaya2004/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -460,6 +462,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jyotirmaya2004/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -540,6 +543,7 @@
 | [0794-swim-in-rising-water](https://github.com/jyotirmaya2004/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/jyotirmaya2004/LeetCode/tree/master/3678-design-task-manager) |
