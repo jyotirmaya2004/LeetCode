@@ -1,41 +1,50 @@
 class Solution:
     def minimumCost(self, nums: List[int], k: int, dist: int) -> int:
-        k -= 1
-        ind = {x:i+1 for i, x in enumerate(sorted(set(nums)))}
-        n, m = len(nums), len(ind)
-        Tree_freq = [0] * (m+1)
-        Tree_sums = [0] * (m+1)
-        def kth(Tree_freq, Tree_sums, k):
-            lo = 1
-            hi = m
-            while lo < hi:
-                mid = (lo+hi)//2
-                if query(Tree_freq, mid) < k:
-                    lo = mid+1
-                else:
-                    hi = mid
-            v = (query(Tree_sums, lo)-query(Tree_sums, lo-1)) // (query(Tree_freq, lo)-query(Tree_freq, lo-1))
-            left = query(Tree_freq, lo-1)
-            return query(Tree_sums, lo-1) + (k-left) * v + nums[0]
-        def update(Tree, i, delta):
-            while i < m+1:
-                Tree[i] += delta
-                i += i & -i
-        def query(Tree, i):
-            R = 0
-            while i > 0:
-                R += Tree[i]
-                i -= i & -i
-            return R
-        res = sum(nums[:k+1])
-        for i in range(1, n):
-            update(Tree_freq, ind[nums[i]], 1)
-            update(Tree_sums, ind[nums[i]], nums[i])
-            if i > dist:
-                score = kth(Tree_freq, Tree_sums, k)
-                res = min(res, score)
-                update(Tree_freq, ind[nums[i-dist]], -1)
-                update(Tree_sums, ind[nums[i-dist]], -nums[i-dist])
-        return res
+        
+        def move_from_left_to_right():
+            nonlocal current_sum
+            element = left_set.pop()
+            current_sum -= element 
+            right_set.add(element)
 
+        def move_from_right_to_left():
+            nonlocal current_sum
+            element = right_set.pop(0)
+            left_set.add(element)
+            current_sum += element 
+
+        k -= 1
+
+        current_sum = sum(nums[:dist + 2])
+        left_set = SortedList(nums[1:dist + 2])
+        right_set = SortedList()
+
+        while len(left_set) > k:
+            move_from_left_to_right()
+
+        min_cost = current_sum 
+
+        for i in range(dist + 2, len(nums)):
+            outgoing_element = nums[i - dist - 1]
+            if outgoing_element in left_set:
+                left_set.remove(outgoing_element)
+                current_sum -= outgoing_element
+            else:
+                right_set.remove(outgoing_element)
+
+            incoming_element = nums[i]
+            if left_set and incoming_element < left_set[-1]:
+                left_set.add(incoming_element)
+                current_sum += incoming_element
+            else:
+                right_set.add(incoming_element)
+
+            while len(left_set) < k:
+                move_from_right_to_left()
+            while len(left_set) > k:
+                move_from_left_to_right()
+
+            min_cost = min(min_cost, current_sum)
+
+        return min_cost 
             
