@@ -124,6 +124,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jyotirmaya2004/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -158,6 +159,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jyotirmaya2004/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/jyotirmaya2004/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/jyotirmaya2004/LeetCode/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 ## Two Pointers
