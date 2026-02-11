@@ -128,6 +128,7 @@
 | [3640-trionic-array-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jyotirmaya2004/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -294,6 +295,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/jyotirmaya2004/LeetCode/tree/master/3678-design-task-manager) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/jyotirmaya2004/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -391,6 +393,7 @@
 | [0053-maximum-subarray](https://github.com/jyotirmaya2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -509,6 +512,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jyotirmaya2004/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
 |  |
@@ -718,6 +722,7 @@
 | ------- |
 | [3454-separate-squares-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
