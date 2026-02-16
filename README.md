@@ -397,6 +397,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/jyotirmaya2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
@@ -449,6 +450,7 @@
 | [0029-divide-two-integers](https://github.com/jyotirmaya2004/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/jyotirmaya2004/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
