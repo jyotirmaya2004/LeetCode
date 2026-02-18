@@ -453,6 +453,7 @@
 | [0190-reverse-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jyotirmaya2004/LeetCode/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
