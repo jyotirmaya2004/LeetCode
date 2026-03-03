@@ -227,6 +227,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jyotirmaya2004/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/jyotirmaya2004/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jyotirmaya2004/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -565,6 +566,7 @@
 | [0043-multiply-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jyotirmaya2004/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/jyotirmaya2004/LeetCode/tree/master/0682-baseball-game) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -639,6 +641,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jyotirmaya2004/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union Find
 |  |
 | ------- |
