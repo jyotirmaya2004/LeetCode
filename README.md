@@ -73,6 +73,7 @@
 | [1733-minimum-number-of-people-to-teach](https://github.com/jyotirmaya2004/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1895-largest-magic-square](https://github.com/jyotirmaya2004/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -238,6 +239,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jyotirmaya2004/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jyotirmaya2004/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -286,6 +288,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/jyotirmaya2004/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/jyotirmaya2004/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1980-find-unique-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
@@ -719,6 +722,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/jyotirmaya2004/LeetCode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Stack
 |  |
