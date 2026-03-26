@@ -1,6 +1,15 @@
+# Added using AI
 class Solution:
-    def findDifferentBinaryString(self, nums: list[str]) -> str:
+    def findDifferentBinaryString(self, nums: List[str]) -> str:
+        n = len(nums)
+        st = set()
         
-        flip = lambda x: '0' if x=='1' else '1'
-        return ''.join(map(flip,[nums[i][i] for i in range(len(nums))]))
-    
+        for binary_str in nums:
+            st.add(int(binary_str, 2))
+        
+        for i in range(1 << n):
+            if i not in st:
+                binary = bin(i)[2:]
+                return binary.zfill(n)
+        
+        return ""
