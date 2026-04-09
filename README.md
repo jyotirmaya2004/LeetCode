@@ -136,6 +136,7 @@
 | [3640-trionic-array-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/jyotirmaya2004/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jyotirmaya2004/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -434,6 +435,7 @@
 | [0190-reverse-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
