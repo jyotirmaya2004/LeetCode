@@ -78,6 +78,7 @@
 | [1895-largest-magic-square](https://github.com/jyotirmaya2004/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jyotirmaya2004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -541,6 +542,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/jyotirmaya2004/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1975-maximum-matrix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jyotirmaya2004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/jyotirmaya2004/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
