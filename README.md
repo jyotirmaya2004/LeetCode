@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jyotirmaya2004/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jyotirmaya2004/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/jyotirmaya2004/LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jyotirmaya2004/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -174,6 +175,7 @@
 | [0119-pascals-triangle-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/jyotirmaya2004/LeetCode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/jyotirmaya2004/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/jyotirmaya2004/LeetCode/tree/master/0799-champagne-tower) |
@@ -425,6 +427,7 @@
 | [0069-sqrtx](https://github.com/jyotirmaya2004/LeetCode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jyotirmaya2004/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/jyotirmaya2004/LeetCode/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/jyotirmaya2004/LeetCode/tree/master/0396-rotate-function) |
 | [0830-largest-triangle-area](https://github.com/jyotirmaya2004/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jyotirmaya2004/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
