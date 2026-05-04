@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jyotirmaya2004/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jyotirmaya2004/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/jyotirmaya2004/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jyotirmaya2004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jyotirmaya2004/LeetCode/tree/master/0075-sort-colors) |
@@ -422,6 +423,7 @@
 | [0013-roman-to-integer](https://github.com/jyotirmaya2004/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jyotirmaya2004/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/jyotirmaya2004/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/jyotirmaya2004/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jyotirmaya2004/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jyotirmaya2004/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jyotirmaya2004/LeetCode/tree/master/0069-sqrtx) |
@@ -700,6 +702,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jyotirmaya2004/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/jyotirmaya2004/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jyotirmaya2004/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
