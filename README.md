@@ -81,6 +81,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotirmaya2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/jyotirmaya2004/LeetCode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -659,6 +660,7 @@
 | [0874-walking-robot-simulation](https://github.com/jyotirmaya2004/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jyotirmaya2004/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2069-walking-robot-simulation-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jyotirmaya2004/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -715,6 +717,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jyotirmaya2004/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jyotirmaya2004/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/jyotirmaya2004/LeetCode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/jyotirmaya2004/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
