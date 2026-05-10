@@ -108,6 +108,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/jyotirmaya2004/LeetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jyotirmaya2004/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jyotirmaya2004/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/jyotirmaya2004/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jyotirmaya2004/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -197,6 +198,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/jyotirmaya2004/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/jyotirmaya2004/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/jyotirmaya2004/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jyotirmaya2004/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
