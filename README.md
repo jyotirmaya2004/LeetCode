@@ -755,6 +755,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/jyotirmaya2004/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -763,6 +764,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jyotirmaya2004/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jyotirmaya2004/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/jyotirmaya2004/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union Find
 |  |
