@@ -125,6 +125,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jyotirmaya2004/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jyotirmaya2004/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3093-longest-common-suffix-queries](https://github.com/jyotirmaya2004/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/jyotirmaya2004/LeetCode/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-maximum-score-from-grid-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -560,6 +561,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/jyotirmaya2004/LeetCode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3161-block-placement-queries](https://github.com/jyotirmaya2004/LeetCode/tree/master/3161-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/jyotirmaya2004/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -913,6 +915,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/jyotirmaya2004/LeetCode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -941,5 +944,9 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jyotirmaya2004/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/jyotirmaya2004/LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
 
