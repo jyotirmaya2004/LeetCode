@@ -93,6 +93,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jyotirmaya2004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/jyotirmaya2004/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2122-count-special-quadruplets](https://github.com/jyotirmaya2004/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2126-destroying-asteroids](https://github.com/jyotirmaya2004/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/jyotirmaya2004/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/jyotirmaya2004/LeetCode/tree/master/2169-simple-bank-system) |
@@ -428,6 +429,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jyotirmaya2004/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/jyotirmaya2004/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/jyotirmaya2004/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/jyotirmaya2004/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jyotirmaya2004/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -609,6 +611,7 @@
 | [1733-minimum-number-of-people-to-teach](https://github.com/jyotirmaya2004/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1975-maximum-matrix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jyotirmaya2004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/jyotirmaya2004/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/jyotirmaya2004/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/jyotirmaya2004/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
