@@ -227,6 +227,7 @@
 | [3660-jump-game-ix](https://github.com/jyotirmaya2004/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jyotirmaya2004/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/jyotirmaya2004/LeetCode/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 ## Two Pointers
@@ -509,6 +510,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jyotirmaya2004/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jyotirmaya2004/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
