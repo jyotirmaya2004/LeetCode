@@ -186,6 +186,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/jyotirmaya2004/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/jyotirmaya2004/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jyotirmaya2004/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -335,6 +336,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/jyotirmaya2004/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/jyotirmaya2004/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jyotirmaya2004/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4019-remove-k-balanced-substrings](https://github.com/jyotirmaya2004/LeetCode/tree/master/4019-remove-k-balanced-substrings) |
 ## Hash Table
@@ -742,6 +744,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/jyotirmaya2004/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [4019-remove-k-balanced-substrings](https://github.com/jyotirmaya2004/LeetCode/tree/master/4019-remove-k-balanced-substrings) |
 | [4058-compute-alternating-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Heap (Priority Queue)
