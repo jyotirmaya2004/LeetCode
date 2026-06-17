@@ -334,6 +334,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/jyotirmaya2004/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jyotirmaya2004/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/jyotirmaya2004/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3614-process-string-with-special-operations-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -743,6 +744,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/jyotirmaya2004/LeetCode/tree/master/2751-robot-collisions) |
 | [3433-count-mentions-per-user](https://github.com/jyotirmaya2004/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3614-process-string-with-special-operations-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/jyotirmaya2004/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
