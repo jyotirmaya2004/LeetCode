@@ -82,6 +82,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/jyotirmaya2004/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/jyotirmaya2004/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotirmaya2004/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jyotirmaya2004/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jyotirmaya2004/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jyotirmaya2004/LeetCode/tree/master/1861-rotating-the-box) |
@@ -449,6 +450,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jyotirmaya2004/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotirmaya2004/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/jyotirmaya2004/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/jyotirmaya2004/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -642,6 +644,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jyotirmaya2004/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/jyotirmaya2004/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/jyotirmaya2004/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jyotirmaya2004/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jyotirmaya2004/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/jyotirmaya2004/LeetCode/tree/master/2126-destroying-asteroids) |
