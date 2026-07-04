@@ -911,6 +911,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/jyotirmaya2004/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jyotirmaya2004/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/jyotirmaya2004/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/jyotirmaya2004/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -929,6 +930,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/jyotirmaya2004/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jyotirmaya2004/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jyotirmaya2004/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -996,6 +998,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jyotirmaya2004/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jyotirmaya2004/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/jyotirmaya2004/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -1010,6 +1013,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jyotirmaya2004/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jyotirmaya2004/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jyotirmaya2004/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jyotirmaya2004/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
