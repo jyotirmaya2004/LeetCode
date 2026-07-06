@@ -60,6 +60,7 @@
 | [1006-vowel-spellchecker](https://github.com/jyotirmaya2004/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jyotirmaya2004/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/jyotirmaya2004/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jyotirmaya2004/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/jyotirmaya2004/LeetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -450,6 +451,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/jyotirmaya2004/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/0761-special-binary-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyotirmaya2004/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/jyotirmaya2004/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jyotirmaya2004/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jyotirmaya2004/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
