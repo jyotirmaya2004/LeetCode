@@ -544,6 +544,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/jyotirmaya2004/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jyotirmaya2004/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jyotirmaya2004/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/jyotirmaya2004/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jyotirmaya2004/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -763,6 +764,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/jyotirmaya2004/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jyotirmaya2004/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jyotirmaya2004/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jyotirmaya2004/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
