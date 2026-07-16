@@ -199,6 +199,7 @@
 | [3838-weighted-word-mapping](https://github.com/jyotirmaya2004/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/jyotirmaya2004/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jyotirmaya2004/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4058-compute-alternating-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Dynamic Programming
@@ -281,6 +282,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -493,6 +495,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/jyotirmaya2004/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jyotirmaya2004/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -555,6 +558,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/jyotirmaya2004/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/jyotirmaya2004/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/jyotirmaya2004/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4049-count-no-zero-pairs-that-sum-to-n](https://github.com/jyotirmaya2004/LeetCode/tree/master/4049-count-no-zero-pairs-that-sum-to-n) |
 ## Divide and Conquer
 |  |
@@ -766,6 +770,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jyotirmaya2004/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jyotirmaya2004/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -796,6 +801,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyotirmaya2004/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jyotirmaya2004/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/jyotirmaya2004/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jyotirmaya2004/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4019-remove-k-balanced-substrings](https://github.com/jyotirmaya2004/LeetCode/tree/master/4019-remove-k-balanced-substrings) |
 | [4058-compute-alternating-sum](https://github.com/jyotirmaya2004/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Heap (Priority Queue)
